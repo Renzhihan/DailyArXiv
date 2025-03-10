@@ -15,6 +15,13 @@ labels: documentation
 | **[METDrive: Multi-modal End-to-end Autonomous Driving with Temporal Guidance](http://arxiv.org/abs/2409.12667v2)** | 2025-03-07 | Accepted by ICRA |
 | **[Matrix Time Series Modeling: A Hybrid Framework Combining Autoregression and Common Factors](http://arxiv.org/abs/2503.05340v1)** | 2025-03-07 |  |
 | **[On reconstructing high derivatives of noisy time-series with confidence intervals](http://arxiv.org/abs/2503.05222v1)** | 2025-03-07 | 8 pages; 3 figures |
+| **[Fundamentals of non-parametric statistical inference for integrated quantiles](http://arxiv.org/abs/2501.17722v3)** | 2025-03-07 | <details><summary>84 pa...</summary><p>84 pages, 7 figures, 1 table</p></details> |
+| **[FinTMMBench: Benchmarking Temporal-Aware Multi-Modal RAG in Finance](http://arxiv.org/abs/2503.05185v1)** | 2025-03-07 | Under review |
+| **[TS-LIF: A Temporal Segment Spiking Neuron Network for Time Series Forecasting](http://arxiv.org/abs/2503.05108v1)** | 2025-03-07 |  |
+| **[TempoGPT: Enhancing Time Series Reasoning via Quantizing Embedding](http://arxiv.org/abs/2501.07335v2)** | 2025-03-07 |  |
+| **[AverageLinear: Enhance Long-Term Time series forecasting with simple averaging](http://arxiv.org/abs/2412.20727v2)** | 2025-03-07 |  |
+| **[Tensor PCA for Factor Models](http://arxiv.org/abs/2212.12981v3)** | 2025-03-06 |  |
+| **[Boltzmann convolutions and Welford mean-variance layers with an application to time series forecasting and classification](http://arxiv.org/abs/2503.04956v1)** | 2025-03-06 | <details><summary>40 pa...</summary><p>40 pages, 7 figures, 11 tables</p></details> |
 
 ## Trajectory
 | **Title** | **Date** | **Comment** |
