@@ -7,6 +7,7 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Complexity Analysis of Environmental Time Series](http://arxiv.org/abs/2503.07582v1)** | 2025-03-10 | <details><summary>32 pa...</summary><p>32 pages, 26 figures, 36 references</p></details> |
 | **[Early signs of stuck pipe detection based on Crossformer](http://arxiv.org/abs/2503.07440v1)** | 2025-03-10 | 33 pages,9 figure |
 | **[A Constraint-Preserving Neural Network Approach for Solving Mean-Field Games Equilibrium](http://arxiv.org/abs/2501.17450v2)** | 2025-03-10 | 23 pages |
 | **[COMODO: Cross-Modal Video-to-IMU Distillation for Efficient Egocentric Human Activity Recognition](http://arxiv.org/abs/2503.07259v1)** | 2025-03-10 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Deep Learning Foundation and Pattern Models: Challenges in Hydrological Time Series](http://arxiv.org/abs/2410.15218v2)** | 2025-03-09 |  |
 | **[Diffusion Model Based Probabilistic Day-ahead Load Forecasting](http://arxiv.org/abs/2503.06697v1)** | 2025-03-09 | 10pages |
 | **[Optimal Cut-Point Estimation for Functional Digital Biomarkers: Application to Diabetes Risk Stratification via Continuous Glucose Monitoring](http://arxiv.org/abs/2404.09716v2)** | 2025-03-09 |  |
-| **[Hardware-Accelerated Event-Graph Neural Networks for Low-Latency Time-Series Classification on SoC FPGA](http://arxiv.org/abs/2503.06629v1)** | 2025-03-09 | <details><summary>Paper...</summary><p>Paper accepted for the 21st International Symposium on Applied Reconfigurable Computing ARC 2025, Sevilla, Spain, April 9-11, 2025</p></details> |
 
 ## Trajectory
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Signed Graph Autoencoder for Explainable and Polarization-Aware Network Embeddings](http://arxiv.org/abs/2409.10452v3)** | 2025-03-10 | <details><summary>AISTA...</summary><p>AISTATS 2025 Camera-ready version</p></details> |
 | **[KAA: Kolmogorov-Arnold Attention for Enhancing Attentive Graph Neural Networks](http://arxiv.org/abs/2501.13456v3)** | 2025-03-10 |  |
 | **[Beyond the Edge of Function: Unraveling the Patterns of Type Recovery in Binary Code](http://arxiv.org/abs/2503.07243v1)** | 2025-03-10 |  |
 | **[An Analytics-Driven Approach to Enhancing Supply Chain Visibility with Graph Neural Networks and Federated Learning](http://arxiv.org/abs/2503.07231v1)** | 2025-03-10 | <details><summary>15 pa...</summary><p>15 pages, 5 figures, 5 tables, submitted to a journal</p></details> |
@@ -53,11 +54,4 @@ labels: documentation
 | **[Neural Snowflakes: Universal Latent Graph Inference via Trainable Latent Geometries](http://arxiv.org/abs/2310.15003v2)** | 2025-03-09 | <details><summary>9 Pag...</summary><p>9 Pages + Appendix, 2 Figures, 9 Tables</p></details> |
 | **[Deep Cut-informed Graph Embedding and Clustering](http://arxiv.org/abs/2503.06635v1)** | 2025-03-09 |  |
 | **[Hardware-Accelerated Event-Graph Neural Networks for Low-Latency Time-Series Classification on SoC FPGA](http://arxiv.org/abs/2503.06629v1)** | 2025-03-09 | <details><summary>Paper...</summary><p>Paper accepted for the 21st International Symposium on Applied Reconfigurable Computing ARC 2025, Sevilla, Spain, April 9-11, 2025</p></details> |
-| **[Using Subgraph GNNs for Node Classification:an Overlooked Potential Approach](http://arxiv.org/abs/2503.06614v1)** | 2025-03-09 | 16 pages |
-| **[Improving Graph Neural Networks on Multi-node Tasks with the Labeling Trick](http://arxiv.org/abs/2304.10074v2)** | 2025-03-09 |  |
-| **[Identifying Evidence Subgraphs for Financial Risk Detection via Graph Counterfactual and Factual Reasoning](http://arxiv.org/abs/2503.06441v1)** | 2025-03-09 |  |
-| **[Hierarchical graph sampling based minibatch learning with chain preservation and variance reduction](http://arxiv.org/abs/2503.00860v3)** | 2025-03-09 | 26 pages, 10 figures |
-| **[Tensor-Fused Multi-View Graph Contrastive Learning](http://arxiv.org/abs/2410.15247v2)** | 2025-03-09 |  |
-| **[Dynamic Load Balancing for EV Charging Stations Using Reinforcement Learning and Demand Prediction](http://arxiv.org/abs/2503.06370v1)** | 2025-03-09 | <details><summary>19th ...</summary><p>19th Annual IEEE International Systems Conference (SysCon 2025)</p></details> |
-| **[GIN-Graph: A Generative Interpretation Network for Model-Level Explanation of Graph Neural Networks](http://arxiv.org/abs/2503.06352v1)** | 2025-03-08 |  |
 
