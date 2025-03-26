@@ -39,6 +39,8 @@ labels: documentation
 | **[Physically-Feasible Reactive Synthesis for Terrain-Adaptive Locomotion via Trajectory Optimization and Symbolic Repair](http://arxiv.org/abs/2503.03071v2)** | 2025-03-21 |  |
 | **[MultiNash-PF: A Particle Filtering Approach for Computing Multiple Local Generalized Nash Equilibria in Trajectory Games](http://arxiv.org/abs/2410.05554v2)** | 2025-03-21 |  |
 | **[Physical Plausibility-aware Trajectory Prediction via Locomotion Embodiment](http://arxiv.org/abs/2503.17267v1)** | 2025-03-21 | <details><summary>CVPR2...</summary><p>CVPR2025. Project page: https://iminthemiddle.github.io/EmLoco-Page/</p></details> |
+| **[Joint Beamforming and Trajectory Optimization for Multi-UAV-Assisted Integrated Sensing and Communication Systems](http://arxiv.org/abs/2503.16915v1)** | 2025-03-21 | 5 pages, 1 figure |
+| **[Prioritized Trajectory Replay: A Replay Memory for Data-driven Reinforcement Learning](http://arxiv.org/abs/2306.15503v2)** | 2025-03-21 | <details><summary>Accep...</summary><p>Accepted by AAMAS 2024, see https://dl.acm.org/doi/10.5555/3635637.3662980</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
