@@ -10,6 +10,7 @@ labels: documentation
 | **[Causal-Copilot: An Autonomous Causal Analysis Agent](http://arxiv.org/abs/2504.13263v2)** | 2025-04-21 |  |
 | **[M$^2$AD: Multi-Sensor Multi-System Anomaly Detection through Global Scoring and Calibrated Thresholding](http://arxiv.org/abs/2504.15225v1)** | 2025-04-21 | <details><summary>Accep...</summary><p>Accepted at AISTATS 2025</p></details> |
 | **[A Deep Learning Framework for Sequence Mining with Bidirectional LSTM and Multi-Scale Attention](http://arxiv.org/abs/2504.15223v1)** | 2025-04-21 |  |
+| **[Enhancing Efficiency in Multidevice Federated Learning through Data Selection](http://arxiv.org/abs/2211.04175v5)** | 2025-04-21 | <details><summary>An ea...</summary><p>An early version (v3) has been presented at ICLR 2023 Workshop on Machine Learning for IoT: Datasets, Perception, and Understanding</p></details> |
 | **[Learning Compositional Transferability of Time Series for Source-Free Domain Adaptation](http://arxiv.org/abs/2504.14994v1)** | 2025-04-21 | <details><summary>Corre...</summary><p>Corresponding author: Su Yang</p></details> |
 | **[Multiple-Resolution Tokenization for Time Series Forecasting with an Application to Pricing](http://arxiv.org/abs/2407.03185v2)** | 2025-04-21 |  |
 | **[Structuring Multiple Simple Cycle Reservoirs with Particle Swarm Optimization](http://arxiv.org/abs/2504.05347v2)** | 2025-04-21 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[DConAD: A Differencing-based Contrastive Representation Learning Framework for Time Series Anomaly Detection](http://arxiv.org/abs/2504.14204v1)** | 2025-04-19 |  |
 | **[Large Language Model Enhanced Particle Swarm Optimization for Hyperparameter Tuning for Deep Learning Models](http://arxiv.org/abs/2504.14126v1)** | 2025-04-19 |  |
 | **[MMformer with Adaptive Transferable Attention: Advancing Multivariate Time Series Forecasting for Environmental Applications](http://arxiv.org/abs/2504.14050v1)** | 2025-04-18 |  |
-| **[Simple Macroeconomic Forecast Distributions for the G7 Economies](http://arxiv.org/abs/2408.08304v3)** | 2025-04-18 |  |
 
 ## Trajectory
 | **Title** | **Date** | **Comment** |
