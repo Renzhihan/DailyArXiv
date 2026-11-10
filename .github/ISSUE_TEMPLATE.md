@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 09, 2026
+title: Latest 15 Papers - November 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[GPU-accelerated Regularized Vector Multiplicative Error Models for Positive-valued Financial Time Series](https://arxiv.org/abs/2610.08443v2)** | 2026-11-05 | <details><summary>ISBIS...</summary><p>ISBIS-STATFIN Conference 2026 contributed talk (Conference link: https://statfin.cmi.ac.in/ISBIS2026/, Talk link: https://statfin.cmi.ac.in/ISBIS2026/#:~:text=72-,Rohan%20Chattre,-UConn)</p></details> |
-| **[Diffusion-Driven State Space Models](https://arxiv.org/abs/2606.21036v2)** | 2026-11-05 | <details><summary>Accep...</summary><p>Accepted to ProbML 2026 Workshop Track</p></details> |
-| **[VACE: Learning Geometrically Structured Representations for Time Series Anomaly Detection](https://arxiv.org/abs/2605.23504v2)** | 2026-11-05 | 16 pages, 5 figures |
-| **[First-Token Attraction in Mamba Dynamics](https://arxiv.org/abs/2611.08303v1)** | 2026-11-05 |  |
-| **[Series-wise Cross-validation for Global Time Series Forecasting](https://arxiv.org/abs/2611.08252v1)** | 2026-11-05 |  |
-| **[Patch Attention Wisely: Understanding Patch Length in Attention-Based Forecasting](https://arxiv.org/abs/2611.08160v1)** | 2026-11-05 |  |
-| **[Bounded GARCH Processes](https://arxiv.org/abs/2611.08158v1)** | 2026-11-05 | <details><summary>Paper...</summary><p>Paper submitted for publication</p></details> |
-| **[A Generative Foundation Model for Multimodal Tokamak Tasks](https://arxiv.org/abs/2611.08153v1)** | 2026-11-05 |  |
-| **[Differencing the Diffusion Trajectory toward Uncertain Components for Time Series Forecasting](https://arxiv.org/abs/2607.22599v2)** | 2026-11-05 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. Updated to the camera-ready version</p></details> |
-| **[Emergent Generalization by Representation Learning in Artificial Neural Networks](https://arxiv.org/abs/2607.10430v2)** | 2026-11-05 |  |
-| **[FARR: Forecast-Aware Residual Refinement with Matched Endpoint Evidence for Long-Horizon Time-Series Forecasting](https://arxiv.org/abs/2611.07870v1)** | 2026-11-05 | <details><summary>10 pa...</summary><p>10 pages, 3 figures, 4 tables</p></details> |
-| **[MSR-CP: A Modified Segmented Regression Approach to Change Point Estimation in Rainfall Patterns in West Bengal](https://arxiv.org/abs/2611.07858v1)** | 2026-11-05 |  |
-| **[EnergyBench: a live, gate-aligned benchmark of day-ahead forecasts for European power markets](https://arxiv.org/abs/2611.07784v1)** | 2026-11-05 | <details><summary>21 pa...</summary><p>21 pages, 10 figures, 7 tables. Live benchmark at https://energybench.foretec.co</p></details> |
-| **[Ordering Multivariate Time Series by Volatility Memory: A Temporal Convolutional Approach to Volatility Heredity](https://arxiv.org/abs/2611.07746v1)** | 2026-11-05 |  |
-| **[Evaluating Language Model Features for Zero-Shot Time-Series Anomaly Detection Under Isolation Assumption](https://arxiv.org/abs/2611.07720v1)** | 2026-11-05 |  |
+| **[Fifty-Two Shades of Pig: What the UCR Archive Really Asks Classifiers to Do](https://arxiv.org/abs/2611.09843v1)** | 2026-11-06 |  |
+| **[Revisiting the Generic Transformer: Deconstructing a Strong Baseline for Time Series Foundation Models](https://arxiv.org/abs/2602.06909v2)** | 2026-11-06 |  |
+| **[Local Inference for High-dimensional Time Series](https://arxiv.org/abs/2611.09676v1)** | 2026-11-06 |  |
+| **[Fast and Actionable Classification of HPC I/O Time Series](https://arxiv.org/abs/2611.09646v1)** | 2026-11-06 |  |
+| **[TimeOmni-Live: Continuous & Live Time Series Understanding with Long-Term Memory](https://arxiv.org/abs/2611.09502v1)** | 2026-11-06 |  |
+| **[Spectral Transformer Neural Processes](https://arxiv.org/abs/2605.09498v2)** | 2026-11-06 | <details><summary>43 pa...</summary><p>43 pages, 10 figures, 18 tables</p></details> |
+| **[CausalCompass: Evaluating the Robustness of Time-Series Causal Discovery in Misspecified Scenarios](https://arxiv.org/abs/2602.07915v3)** | 2026-11-06 | <details><summary>accep...</summary><p>accepted to NeurIPS 2026</p></details> |
+| **[STEP: Learning STructured Embeddings for Progressive Time Series](https://arxiv.org/abs/2605.31061v2)** | 2026-11-06 | <details><summary>NeurI...</summary><p>NeurIPS 2026, 10 pages</p></details> |
+| **[Coherent forecast combination for linearly constrained multiple time series](https://arxiv.org/abs/2412.03429v2)** | 2026-11-06 |  |
+| **[New optimisations for exact, scalable 2D Gaussian process inference, with applications to astronomical time-series](https://arxiv.org/abs/2611.09198v1)** | 2026-11-06 | Submitted to PASA |
+| **[TailDART: Compute-Efficient Foundation Models for Financial Time-Series Forecasting](https://arxiv.org/abs/2611.09176v1)** | 2026-11-06 |  |
+| **[TimeTok: Granularity-Controllable Time-Series Generation via Hierarchical Tokenization](https://arxiv.org/abs/2605.01418v3)** | 2026-11-06 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
+| **[When2What: A Timing-Conditioned Framework for Long-Horizon Forecasting of Continuous Cardiovascular Waveforms](https://arxiv.org/abs/2611.08993v1)** | 2026-11-06 | <details><summary>31 pa...</summary><p>31 pages (18 pages main text, 13 pages supplementary material), 7 figures, 31 tables. Code available at https://github.com/prncoprs/when2what-release</p></details> |
+| **[Discretizing Continuous Time Series for Imputation with Masked Diffusion Training](https://arxiv.org/abs/2608.19119v2)** | 2026-11-06 | NeurIPS 2026 |
+| **[Composable Causality: A Toolkit for Systematic Time-Series Causal Discovery and Treatment-Effect Benchmarking](https://arxiv.org/abs/2611.08918v1)** | 2026-11-06 | <details><summary>30 pa...</summary><p>30 pages, 10 main text pages plus references and appendices, with figures and tables. Accepted to the NeurIPS 2026 Evaluations and Datasets Track. Code and data at https://github.com/hferdous/Composable_Causality</p></details> |
 
 ## Trajectory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Transformer-Based Trajectory Prescription for sEMG-Optimizing Robot-Mediated Rehabilitation](https://arxiv.org/abs/2611.08295v1)** | 2026-11-05 | <details><summary>Accep...</summary><p>Accepted for presentation and publication in the 2026 Conference on Robot Learning (CoRL). PMLR, 2026</p></details> |
-| **[Differencing the Diffusion Trajectory toward Uncertain Components for Time Series Forecasting](https://arxiv.org/abs/2607.22599v2)** | 2026-11-05 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. Updated to the camera-ready version</p></details> |
-| **[Joint Modeling of Conditional Mean and Variability in Multilevel Functional Data: Application to Postprandial Glucose Trajectories in the AEGIS Study](https://arxiv.org/abs/2611.07937v1)** | 2026-11-05 |  |
-| **[Adaptive Semantic Branching: Disagreement-Localized Cross-Trajectory Regeneration for Reasoning Candidate Expansion](https://arxiv.org/abs/2611.07918v1)** | 2026-11-05 |  |
-| **[EcoGEO: Trajectory-Aware Evidence Ecosystems for Web-Enabled LLM Search Agents](https://arxiv.org/abs/2605.12887v3)** | 2026-11-05 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
-| **[TACG: Trajectory-Aware Commit Gating for Diffusion Language Model Decoding](https://arxiv.org/abs/2607.03236v2)** | 2026-11-05 |  |
-| **[Rule-Guided and Trajectory-Aware Repair for LLM-Based HLS Generation](https://arxiv.org/abs/2611.07324v1)** | 2026-11-05 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 7 tables</p></details> |
-| **[Structured Machine Theory of Mind from Agent Trajectories](https://arxiv.org/abs/2611.07208v1)** | 2026-11-04 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research (TMLR), 10/2026. 37 pages. OpenReview: https://openreview.net/forum?id=PfSNLg0zcK. Code: https://github.com/NigelDoering/structured-machine-tom</p></details> |
-| **[TraCE: Trajectory-Aware Concepts for Explainable Video Understanding](https://arxiv.org/abs/2611.07009v1)** | 2026-11-04 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026. Project page: https://leewooil.github.io/TraCE_project_page/</p></details> |
-| **[PixelSpline: Continuous Space-Time Video Super-Resolution via Endpoint-Anchored Shared Pixel Trajectories](https://arxiv.org/abs/2611.06870v1)** | 2026-11-04 |  |
-| **[Accelerating Rectified Flow Models via Trajectory-Aware Caching](https://arxiv.org/abs/2605.16789v2)** | 2026-11-04 | 22 pages,14 figures |
-| **[TailSteer: Trajectory-Tail Steering for Drift-Resistant Multi-turn Image Editing](https://arxiv.org/abs/2611.06741v1)** | 2026-11-04 | <details><summary>16 pa...</summary><p>16 pages, 9 figures. Project page: https://lyricccco.github.io/tailsteer/</p></details> |
-| **[AgentTrustCI: Build-Time Policy, Grounding, and Trajectory Tests for Java LLM Agents](https://arxiv.org/abs/2611.06674v1)** | 2026-11-04 | <details><summary>Accep...</summary><p>Accepted for publication in the 2026 International Conference on Computer and Applications (ICCA)</p></details> |
-| **[STRIDE: Automated Evaluation of Text-to-Trajectory Alignment across Diverse Contexts](https://arxiv.org/abs/2609.34799v3)** | 2026-11-04 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026, Evaluations & Datasets Track</p></details> |
-| **[DyPSI: Dynamic Physics Sensing via Joint Field and Sensor-Trajectory Generation](https://arxiv.org/abs/2611.06280v1)** | 2026-11-04 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. 35 pages, 4 figures</p></details> |
+| **[Stay on the Manifold: Hierarchical Bayesian Trajectory-Family Transfer for Sparse-Target Reconstruction and Sampling](https://arxiv.org/abs/2310.07801v2)** | 2026-11-06 | <details><summary>46 pa...</summary><p>46 pages, 17 figures. Includes appendices with proofs and additional experimental results</p></details> |
+| **[Atomic Trajectory Modeling with State Space Models for Biomolecular Dynamics](https://arxiv.org/abs/2603.17633v2)** | 2026-11-06 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
+| **[EGT: Execution-Grounded Traversability through Learned Closed-Loop Trajectory Distributions](https://arxiv.org/abs/2611.09270v1)** | 2026-11-06 |  |
+| **[Steering Training Trajectories in Diffusion Representation Learning](https://arxiv.org/abs/2607.05319v2)** | 2026-11-06 | <details><summary>Proce...</summary><p>Proceedings of the Fortieth Annual Conference on Neural Information Processing Systems, Sydney, Australia</p></details> |
+| **[TPS-A*: Path Planning for Any-Shape Vehicles with Certified Collision Checking in Trajectory Parameter Space](https://arxiv.org/abs/2611.09210v1)** | 2026-11-06 | 12 pages, 6 figures |
+| **[Trajectory Forcing: Exploiting Diffusion Trajectories for Autoregressive Long Video Generation](https://arxiv.org/abs/2611.09096v1)** | 2026-11-06 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
+| **[Failure Profiling and Reachable Trajectory Selection for Reasoning Distillation](https://arxiv.org/abs/2611.09042v1)** | 2026-11-06 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026. The source code and trained weights are available at \url{https://github.com/visresearch/FPRT}</p></details> |
+| **[TriTD: Tri-Partite Trajectory-Distribution Distillation for Real-Time Autoregressive Video Generation](https://arxiv.org/abs/2610.26165v2)** | 2026-11-06 | 21 pages, 8 figures |
+| **[TraCE: Trajectory-Aware Concepts for Explainable Video Understanding](https://arxiv.org/abs/2611.07009v2)** | 2026-11-06 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026. Project page: https://leewooil.github.io/TraCE_project_page/</p></details> |
+| **[From Trajectories to Prefixes: Reusing Teacher Trajectories via Replayed Prefixes and Online Continuation](https://arxiv.org/abs/2607.19395v2)** | 2026-11-06 | <details><summary>Withd...</summary><p>Withdrawn by the authors due to an evaluation error: some Pass@8 values in Table 1 were computed on incomplete task sets. The affected comparisons will be revised</p></details> |
+| **[HOC2R: Hand-Object Contact Trajectories for Human-to-Robot Motion Transfer](https://arxiv.org/abs/2611.08920v1)** | 2026-11-06 | <details><summary>10 pa...</summary><p>10 pages, 10 figures, 9 tables. Accepted for oral presentation at the Australasian Conference on Robotics and Automation (ACRA 2026)</p></details> |
+| **[FATHOM: World-Model-Guided Diffusion Action-Trajectory Selection for Sparse-Marker AUV Tracking](https://arxiv.org/abs/2611.08898v1)** | 2026-11-06 |  |
+| **[Rethinking Agent Trajectory Compression: A Workflow-Aware Perspective](https://arxiv.org/abs/2611.08865v1)** | 2026-11-06 | 12 pages, 4 figures |
+| **[RoboFQE: Rollout-Free Evaluation of Visual Robot Policies from Offline Trajectories](https://arxiv.org/abs/2610.18699v2)** | 2026-11-05 |  |
+| **[Personalized health coaching via coachable health age and counterfactual wearable trajectories](https://arxiv.org/abs/2611.08568v1)** | 2026-11-05 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Scaling Graph Similarity Learning with Graph Neural Networks](https://arxiv.org/abs/2611.09805v1)** | 2026-11-06 |  |
+| **[No Triangulation Without Representation: Generalization in Topological Deep Learning](https://arxiv.org/abs/2605.06467v2)** | 2026-11-06 |  |
+| **[Equivariant Spherical Transformer for Efficient Molecular Modeling](https://arxiv.org/abs/2505.23086v4)** | 2026-11-06 | 31 pages, 5 figures |
+| **[TensorMutation: Learning Weight-Space Mutations of Deep Learning Models on Neural Graphs](https://arxiv.org/abs/2611.09650v1)** | 2026-11-06 | 18 pages, 7 figures |
+| **[Caterpillar GNN: Replacing Message Passing with Graph-Level Aggregation](https://arxiv.org/abs/2506.06784v3)** | 2026-11-06 | <details><summary>Accep...</summary><p>Accepted for NeurIPS 2026</p></details> |
+| **[Interpretable Context-Aware Multi-Label Retinal Classification with Dual-Hub Heterogeneous Graph Neural Network](https://arxiv.org/abs/2611.09309v1)** | 2026-11-06 |  |
+| **[Compact SO(3) Equivariant Atomistic Foundation Models via Structural Pruning](https://arxiv.org/abs/2605.08885v2)** | 2026-11-06 | <details><summary>Accep...</summary><p>Accepted as NeurIPS 2026 Oral paper</p></details> |
+| **[StreamTab: Training-Free Temporal Link Prediction with Tabular Foundation Models](https://arxiv.org/abs/2611.09052v1)** | 2026-11-06 |  |
+| **[SIMBAD: Spatio-Temporal Traffic Forecasting Robust to Aperiodicity](https://arxiv.org/abs/2611.09015v1)** | 2026-11-06 | <details><summary>Total...</summary><p>Total of 30 pages, 9 figures (4 in main, 5 in appendix), accepted to NeurIPS(Neural Information Processing Systems) 2026</p></details> |
+| **[Flowette: Flow Matching with Graphette Priors for Graph Generation](https://arxiv.org/abs/2602.23566v6)** | 2026-11-06 | 61 pages |
+| **[It Takes Two to Tangram: Multi-Agent Object Centric Reinforcement Learning for Assembly](https://arxiv.org/abs/2611.08814v1)** | 2026-11-06 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[CrowdDirector: Runtime Orchestration of Crowd Simulation through Natural-Language Directives](https://arxiv.org/abs/2611.08763v1)** | 2026-11-05 |  |
 | **[Module-Aware Optimization for Graph Neural Networks](https://arxiv.org/abs/2611.08379v1)** | 2026-11-05 | NeurIPS 2026 |
 | **[Hyperbolic Graph Neural Networks Under the Microscope: The Role of Geometry-Task Alignment](https://arxiv.org/abs/2602.01828v3)** | 2026-11-05 | NeurIPS 2026 |
 | **[Towards Generalist Graph-Level Anomaly Detection](https://arxiv.org/abs/2611.07706v1)** | 2026-11-05 | Accepted by NIPS26 |
-| **[CasHyper: Modeling Multi-Factor Interactions and Asymmetric Influence in Cascade Prediction via Hypercomplex Algebra](https://arxiv.org/abs/2611.07585v1)** | 2026-11-05 | 28 pages |
-| **[Graph learning-assisted logic-based Benders decomposition for distributionally robust in-station train rescheduling under disruptions](https://arxiv.org/abs/2611.07520v1)** | 2026-11-05 |  |
-| **[Variable-aware representation, not relation typing, explains the performance of an event-graph model for ICU mortality prediction: temporal and external validation](https://arxiv.org/abs/2608.02663v2)** | 2026-11-05 |  |
-| **[Formalizing Heterogeneous Interaction Modeling for Multi-Agent Debate in Visual Geo-Localization](https://arxiv.org/abs/2511.00908v3)** | 2026-11-05 |  |
-| **[Spectral symmetry fingerprints in equivariant representations](https://arxiv.org/abs/2611.07410v1)** | 2026-11-05 |  |
-| **[Graph Neural Networks for Resource Allocation in Integrated Sensing and Communication](https://arxiv.org/abs/2611.07277v1)** | 2026-11-05 | <details><summary>Submi...</summary><p>Submitted to IEEE ICC 2027</p></details> |
-| **[B-XAIC Dataset: Benchmarking Explainable AI for Graph Neural Networks Using Chemical Data](https://arxiv.org/abs/2505.22252v2)** | 2026-11-05 | <details><summary>Publi...</summary><p>Published at NeurIPS 2026 (Evaluations & Datasets Track)</p></details> |
-| **[GraphIP-Bench: How Hard Is It to Steal a Graph Neural Network, and Can We Stop It?](https://arxiv.org/abs/2605.12827v3)** | 2026-11-04 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. Code: https://github.com/LabRAI/GraphIP-Bench</p></details> |
-| **[Message-passing graph persistence](https://arxiv.org/abs/2611.06801v1)** | 2026-11-04 |  |
-| **[Homomorphism Indistinguishability Beyond Graphs: Relational Weisfeiler--Leman and Hypertree Width](https://arxiv.org/abs/2607.07934v2)** | 2026-11-04 |  |
-| **[From Lab to Reality: A Practical Evaluation of Deep Learning Models and LLMs for Vulnerability Detection](https://arxiv.org/abs/2512.10485v4)** | 2026-11-04 | <details><summary>Accep...</summary><p>Accepted for publication in Journal of Systems and Software (JSS)</p></details> |
-| **[GNNs Meet Sequence Models Along the Shortest-Path: an Expressive Method for Link Prediction](https://arxiv.org/abs/2507.07138v2)** | 2026-11-04 |  |
 
